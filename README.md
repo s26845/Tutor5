@@ -38,6 +38,7 @@ The architecture is broken down into the following modules:
 ## Diagram
 
 The diagram visually represents the architecture and data flow between components. It illustrates how the frontend, backend, ML pipeline, and database interact.
+![System Architecture](https://github.com/s26845/Tutor5/blob/f12d82310fa45715cccc36b2731114f1a0237d9d/Blank%20diagram%20(4).png)
 
 ## Usage
 
